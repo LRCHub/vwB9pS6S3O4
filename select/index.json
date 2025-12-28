@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Spacecraft",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:02:45.770994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spacecraft",
+      "artist": "Abhi The Nomad feat. Harrison Sands & Foster Cazz",
+      "has_synced": false,
+      "path": "select/01_Spacecraft_Abhi_The_Nomad_feat._Harrison_Sands_&_Foster_Cazz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spacecraft (feat. Harrison Sands & Foster Cazz)",
+      "artist": "Abhi The Nomad",
+      "has_synced": false,
+      "path": "select/02_Spacecraft_(feat._Harrison_Sands_&_Foster_Cazz)_Abhi_The_Nomad.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spacecraft",
+      "artist": "Abhi the Nomad feat. Harrison Sands & Local Foster",
+      "has_synced": false,
+      "path": "select/03_Spacecraft_Abhi_the_Nomad_feat._Harrison_Sands_&_Local_Foster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spacecraft",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Spacecraft_BE_FIRST.txt"
+    }
+  ]
+}
